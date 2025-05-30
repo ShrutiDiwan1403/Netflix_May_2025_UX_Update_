@@ -72,12 +72,14 @@ These signals are embedded into **real-time ranking algorithms**, ensuring **eve
 
 ## Conclusion
 
-Netflix’s May 2025 update demonstrates how **UX design, powered by data science**, can shift from being an interface layer to a **strategic engine for retention and content ROI**. The platform isn’t just curating for the user — it’s learning them.
+Netflix’s May 2025 update demonstrates how **UX design, powered by data science**, can shift from being an interface layer to a **strategic engine for retention and content ROI**. The platform isn’t just curating for the user. It’s learning them.
 
+>And with one of the lowest churn rates in the industry, Netflix is doubling down on what it does best:
+Knowing the viewer better than anyone else.
 
 
 ## Components the study covers
-**Behavioral Data, Personalization Algorithms, and User Segmentation**
+**Behavioral Data, Personalization Algorithms, Trend Analysis, Market Research, Product Focus, Scalable Insights and User Segmentation**
 
 
 
